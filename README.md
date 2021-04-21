@@ -7,22 +7,22 @@ It grew over time and became quite usable, I'm releasing the source because I st
 The build process and usage are not that complex but I just dont have power to explain it all at the moment. I'm only releasing the source.
 
 feature list:
--targeting monsters inside specified bounding box
--prioritizing monsters that attack you or party member
--melee attack
--assist attack (optionally waiting for the target to start attacking)
--spoil/sweep
--follow
--casting spells on monsters
--buffing party members
--self buffs
--using items under condition (HP/MANA/always)
--auto accepting party from specified user
--seeding and sowing
--feeding beastfarm beasts
--picking items
--blacklisting monsters to target, attack or sweep
--alarm on boss spawn
--crafting materials, soulshots, weapons with the ability to create higher level materials from lower ones
--the controller (HUB) may be run on other PC than the bots - the bots connect and talk over TCP
+* targeting monsters inside specified bounding box
+* prioritizing monsters that attack you or party member
+* melee attack
+* assist attack (optionally waiting for the target to start attacking)
+* spoil/sweep
+* follow
+* casting spells on monsters
+* buffing party members
+* self buffs
+* using items under condition (HP/MANA/always)
+* auto accepting party from specified user
+* seeding and sowing
+* feeding beastfarm beasts
+* picking items
+* blacklisting monsters to target, attack or sweep
+* alarm on boss spawn
+* crafting materials, soulshots, weapons with the ability to create higher level materials from lower ones
+* the controller (HUB) may be run on other PC than the bots - the bots connect and talk over TCP
 and many many more
